@@ -1,0 +1,6 @@
+Command=date +%R
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=60000
+Font=Cantarell 20
+

@@ -1,0 +1,6 @@
+Command=cat /sys/class/power_supply/BAT0/capacity
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=180000
+Font=Cantarell 20
+

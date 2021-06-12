@@ -1,0 +1,5 @@
+terminator &
+xfce4-panel &
+brightnessctl set 30 &
+xset r rate 200 30 &
+sudo mount /dev/sda4 ~/hard &
