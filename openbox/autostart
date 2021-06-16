@@ -1,4 +1,4 @@
-terminator &
+urxvt &
 xfce4-panel &
 brightnessctl set 30 &
 xset r rate 200 30 &

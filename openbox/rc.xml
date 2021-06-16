@@ -327,7 +327,7 @@
     <!-- Keybindings for running applications -->
     <keybind key="A-z">
       <action name="Execute">
-        <command>terminator</command>
+        <command>urxvt</command>
       </action>
     </keybind>
     <keybind key="Print">
@@ -946,7 +946,7 @@
 	  <decor>no</decor>
 	<maximized>yes</maximized>
     </application>
-  <application name="terminator">
+  <application name="urxvt">
 	  <decor>no</decor>
 	<maximized>yes</maximized>
     </application>
